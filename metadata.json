@@ -1,0 +1,6 @@
+{
+  "name": "LabWise AI",
+  "description": "AI-powered laboratory report analysis and health risk awareness application for patients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
